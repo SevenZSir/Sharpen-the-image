@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Sharpener",
+  "description": "An application that uses the Gemini API to enhance and sharpen user-uploaded images, providing a clear before-and-after comparison.",
+  "requestFramePermissions": []
+}
